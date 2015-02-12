@@ -1,0 +1,39 @@
+\select@language {english}
+\contentsline {chapter}{\numberline {1}Introduction}{4}
+\contentsline {section}{\numberline {1.1}Purpose}{4}
+\contentsline {section}{\numberline {1.2}What is Tetris?}{5}
+\contentsline {section}{\numberline {1.3}Why Tetris?}{5}
+\contentsline {chapter}{\numberline {2}GUI and Main Gameplay Screen}{6}
+\contentsline {section}{\numberline {2.1}Opening sequence}{6}
+\contentsline {section}{\numberline {2.2}Game Menu}{6}
+\contentsline {section}{\numberline {2.3}Help Screen}{7}
+\contentsline {section}{\numberline {2.4}Credit Screen}{7}
+\contentsline {section}{\numberline {2.5}High Score Screen}{7}
+\contentsline {section}{\numberline {2.6}Main Gameplay Screen}{7}
+\contentsline {section}{\numberline {2.7}Cell}{8}
+\contentsline {section}{\numberline {2.8}Tetrominoes}{8}
+\contentsline {chapter}{\numberline {3}Game Play}{9}
+\contentsline {section}{\numberline {3.1}User Interaction}{9}
+\contentsline {section}{\numberline {3.2}Scoring System}{10}
+\contentsline {section}{\numberline {3.3}Gravity}{10}
+\contentsline {section}{\numberline {3.4}Extensions and Special Powers}{11}
+\contentsline {subsection}{\numberline {3.4.1}Next Piece}{11}
+\contentsline {subsection}{\numberline {3.4.2}Hold Piece}{11}
+\contentsline {subsection}{\numberline {3.4.3}Nuke}{11}
+\contentsline {section}{\numberline {3.5}Gameplay Modes}{11}
+\contentsline {section}{\numberline {3.6}Saving progress}{11}
+\contentsline {chapter}{\numberline {4}Graphics}{13}
+\contentsline {chapter}{\numberline {5}Animation}{14}
+\contentsline {section}{\numberline {5.1}Tetromino movement}{14}
+\contentsline {section}{\numberline {5.2}Holding}{14}
+\contentsline {section}{\numberline {5.3}Next tetromino}{15}
+\contentsline {section}{\numberline {5.4}Tetromino touch down}{15}
+\contentsline {section}{\numberline {5.5}Row destruction}{15}
+\contentsline {section}{\numberline {5.6}Nuke explosion}{15}
+\contentsline {chapter}{\numberline {6}Sound}{16}
+\contentsline {chapter}{\numberline {7}Multiplayer}{17}
+\contentsline {chapter}{\numberline {8}Packaging and Deploying the Game}{18}
+\contentsline {chapter}{\numberline {A}Resource Evaluation}{19}
+\contentsline {section}{\numberline {A.1}Human Resources}{19}
+\contentsline {section}{\numberline {A.2}Hardware Resources}{19}
+\contentsline {section}{\numberline {A.3}Software Resources}{20}

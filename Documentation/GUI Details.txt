@@ -1,0 +1,63 @@
+Revisions:
+==========
+Holding:	Only one piece
+Next:		Only one piece
+
+
+GUI Details:
+============
+
+1) Total full screen resolution:	1600 * 900  {aspect ratio: 2.1111}
+
+2) Active game area:
+	a) Upper left corner: (533,57)
+	b) Lower right corner: (1066,857)
+	c) Active game area aspect ratio: 0.6666666 {iPhone compatible}
+
+	
+3) Play Area: {well}
+	a) Upper left corner: (629,163)
+	b) Lower right corner: (969,843)
+
+	
+4) Cell:
+	a) Dimensions of each cell: 33px * 33px
+	b) Composition: A cell is composed of simple glowing lines {only boundry, no fill} (Glow shader applied)
+	c) Line width: 1 pixel
+	
+	
+5) Tetrominoes:
+	a) Each tetromino is made up of exactly 4 cells.
+	
+	
+6) Text: (Glow shader applied)
+	a) "Hold":
+		i) lower left corner: (555,163)
+		ii) font name : Myriad Pro
+		iii) font size : 24 pt
+	
+	b) "Next":
+		i) lower left corner: (994,163)
+		ii) font name : Myriad Pro
+		iii) font size : 24 pt
+		
+	c) "Level":
+		i) lower left corner: (894,140)
+		ii) font name : Myriad Pro
+		iii) font size : 24 pt
+		
+	d) "Score":
+		i) lower left corner: (621,140)
+		ii) font name : Myriad Pro
+		iii) font size : 30 pt
+		
+	e) "Time":
+		i) lower left corner: (688,98)
+		ii) font name : Myriad Pro
+		iii) font size : 36 pt
+		
+		
+		
+Main Menu:
+==========
+
